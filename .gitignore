@@ -1,0 +1,4 @@
+Pipfile*
+*.bin
+.DS_Store
+*test.py
