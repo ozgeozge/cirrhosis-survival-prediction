@@ -2,7 +2,7 @@
 
 Cirrhosis results from prolonged liver damage, leading to extensive scarring, often due to conditions like hepatitis or chronic alcohol consumption.  This project aims to  predict survival state of patients with liver cirrhosis. 
 
-The project offers a solution by providing a user-friendly endpoint. Users can submit a set of essential parameters, and in response, the system will provide an outcome, indicating the survival state of the pationt. The survival states include 0 = D (death), 1 = C (censored), 2 = CL (censored due to liver transplantation). The supervised machine learning model supports healthcare professionals and researchers to identify high-risk patients swiftly and accurately.
+The project offers a solution by providing a user-friendly endpoint. Users can submit a set of essential parameters, and in response, the system will provide an outcome, indicating the survival state of the patient. The survival states include 0 = D (death), 1 = C (censored), 2 = CL (censored due to liver transplantation). The supervised machine learning model supports healthcare professionals and researchers to identify high-risk patients swiftly and accurately.
 
 # Getting Started
 
